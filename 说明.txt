@@ -1,0 +1,9 @@
+
+本项目内容：
+使用MyBatis对表执行CRUD操作-基于注解形式实现
+
+博客标题：
+MyBatis学习总结(二)——使用MyBatis对表执行CRUD操作
+二、使用MyBatis对表执行CRUD操作——基于注解的实现
+
+
